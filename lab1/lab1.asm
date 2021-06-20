@@ -17,3 +17,4 @@ main:
 	
 	.data
 		name: .space 32 #define a space in memory to store the input name
+		hello: .word 32
